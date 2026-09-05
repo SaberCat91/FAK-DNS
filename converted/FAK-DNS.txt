@@ -871,7 +871,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/0574bbs.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/0574nbjg.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/0575.host/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/057555.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/0575bbs.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/0575jb.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/0575life.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -1221,6 +1220,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/09e12x16370.xin/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/09ea354bd9542ba7.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/09game.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/09izf.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/09lc5d12399.xin/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/09pzq024240.xin/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/09shijue.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -2003,6 +2003,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/13726936178.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/137365.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1374.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/137542.club/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1377.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/13793085458.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/13793277711.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -2581,6 +2582,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/18023.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/18095.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/180disk.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/180k.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/180qt.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/180yy.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1811d2af81022.beer/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -2961,6 +2963,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/1zhe.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1zhengji.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1zhixue.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/1zidc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1zj.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1zjob.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/1zu.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -4479,7 +4482,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/393.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/3937.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/3939339.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/394394.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/3949006e510272.beer/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/394afb34a1020.beer/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/39507037133f.icu/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -5256,6 +5258,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/5066.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/506u5nf5j5.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/507c7d240b2eae97.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/508.im/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/5087.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/508hdsys.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/508mallsys.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -11621,6 +11624,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/aliddmall.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/alidns.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/alidns.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/alidnsv122.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/alidnsv4.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/alidnsv5.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/aliedge.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -13235,6 +13239,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/ata-test.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/atacchina.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/atanyu.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/ataokeji.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/atatech.org/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/atats.shop/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/atb.so/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -15266,6 +15271,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/beimeihongfeng.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/beimeizhijia.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/beimeizhiying.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/beimokj.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/beinglab.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/beingmate.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/beipenggroup.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -16914,6 +16920,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/bktsj.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bkvps.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bkweek.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/bkwsq.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bkzzy.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bl.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bl0757.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -17136,6 +17143,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/bmrtech.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bmrtjt.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bms16.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/bms28.xyz/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bmser.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bmshow.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bmtrip.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -18096,6 +18104,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/byf.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/byfen.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/byfen.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/byfscl.xyz/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/byfunds.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bygamesdk.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/bygpu.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -18806,6 +18815,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/cangzhouhd.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/canhighcenter.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/canhot.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/canhui.xyz/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/caniculab.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/canidc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/canjio.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -23041,7 +23051,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/ck921.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ckair.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ckan.tv/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/ckbv165.org/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ckd-mbd.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ckd.im/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ckd.so/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -26508,6 +26517,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/cumtenn.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/cumulon.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/cunan.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/cuncc.cc/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/cuncunle.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/cunfang.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/cunhao.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -29193,6 +29203,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/displink.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/distantmeaning.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/distinctclinic.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/distinctech.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ditai.fun/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ditan.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/ditan360.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -33792,7 +33803,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/fapiao.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/fapiao365.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/fapiaobang.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/faq-whtasapp.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/faqianjia.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/faqiren.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/far-china.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -39016,7 +39026,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/gredmedic.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/gree-jd.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/gree.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/greebox.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/greedc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/greedongaohotel.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/greefinance.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -50958,6 +50967,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/intmes.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/intohard.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/intomod.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/intonead.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/intopet.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/intostarry.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/intovfx.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -57767,6 +57777,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/kkmar.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/kkmh.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/kkmicro.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/kkmm.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/kkmop.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/kkong.vip/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/kkrb.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -58941,7 +58952,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/laijuba.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/laikan.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/laikanxia.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/laikanxing.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/laikanxs.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/laike.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/laiketui.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -59860,7 +59870,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/leiyunge.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/leiyunge.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/leji.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/lejiachao.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/lejian.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/lejiao.tv/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/lejiaolexue.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -63659,7 +63668,6 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/maproelec.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/maptalks.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/mapvq.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
-[/maqingbo.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/maqinnews.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/mararun.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/marathonbm.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -72496,6 +72504,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/pova-elc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/power-rail.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/power-sprayer.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/power-z.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/power86.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/power8t.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/powerapp.io/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -76220,6 +76229,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/redisfans.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/redmagic.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/redmart.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/redmid.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/redmou.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/rednetdns.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/rednote.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -86738,6 +86748,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/tbsandbox.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tbsite.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tbt168.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/tbtk.asia/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tbtopc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tburl.in/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tbxsw.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -87169,6 +87180,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/tencentapp.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tencentapps.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tencentbh.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/tencentbuddy.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tencentbyod.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tencentcc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tencentcdb.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -89659,6 +89671,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/tssyjt.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tstvxmt.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tsubakichina.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/tsuiyuan.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tsukistar.fun/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tsunbull.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/tswjs.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -92663,6 +92676,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/vxiaocheng.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/vxinyou.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/vxixi.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/vxni.ink/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/vxo7tu.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/vxocok3197.vip/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/vxsnk.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -95644,6 +95658,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/wordscheck.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/wordstorming.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/wordsunny.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/workbuddy.link/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/workchat.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/workec.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/workehr.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -96820,6 +96835,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/x-bull.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/x-cloud.cc/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/x-cmd.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/x-dao.io/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/x-droners.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/x-gpu.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/x-imagine.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -97152,6 +97168,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/xcurrency.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xcvec.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xcvmbyte.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/xcvpn.app/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xcvpn.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xcvvs.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xcx-x.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -98511,6 +98528,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/xingbangfl.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xingbo.tv/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xingchao1.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/xingcheclub.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xingchenjia.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xingcheshixian.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/xingchiauto.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -102756,6 +102774,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/yinjiabio.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/yinjispace.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/yinka.co/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/yinkead.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/yinlimedia.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/yinlingshuyuan.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/yinlvaa.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -106264,6 +106283,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/zcosz.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zcowh.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zcpc.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/zcpin.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zcpm.net/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zcpzj.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zcqh.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
@@ -110555,6 +110575,7 @@ https://woo7p3laxv.cloudflare-gateway.com/dns-query
 [/zzhybz.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zzicpa.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zzidc.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
+[/zzimti.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zzjdgcxx.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zzjianyun.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
 [/zzjidi.com/]h3://dns.alidns.com/dns-query https://736431-67fd0h52rvscxmgn.alidns.com/dns-query https://doh.pub/dns-query https://doh.360.cn
